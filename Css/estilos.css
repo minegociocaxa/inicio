@@ -1,0 +1,27 @@
+body{
+background-image: url(../Imagenes/iglesiacajamarca.jpg);
+background-attachment: fixed;
+}
+
+
+label{
+	background: yellow;
+}
+center h1{
+
+	background: red;
+}
+
+.Especifico{
+
+	background: blue;
+	color: white;
+}
+p, h1{
+
+	color: white;
+}
+p{
+
+	background-color: rgba(12, 106, 239,0.4);
+}
